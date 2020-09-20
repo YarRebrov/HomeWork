@@ -6,3 +6,5 @@
 [Задача 1  - рекурсия вверх(2)](https://github.com/YarRebrov/HomeWork/blob/master/number_one_2.py)
 
 [Задача 1  - рекурсия вниз](https://github.com/YarRebrov/HomeWork/blob/master/number_one_3.py)
+
+[Задача 2  - корни приведенного квадратного уравнения](https://github.com/YarRebrov/HomeWork/blob/master/number_two.py)
