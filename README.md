@@ -8,3 +8,6 @@
 [Задача 1  - рекурсия вниз](https://github.com/YarRebrov/HomeWork/blob/master/number_one_3.py)
 
 [Задача 2  - корни приведенного квадратного уравнения](https://github.com/YarRebrov/HomeWork/blob/master/number_two.py)
+
+Домашнее задание 3
+[Задача 4 - МНК](https://github.com/YarRebrov/HomeWork/blob/master/Dz(3)_number_4.py)
