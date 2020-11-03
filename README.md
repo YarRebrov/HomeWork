@@ -11,7 +11,7 @@
 
 Домашнее задание 2
 
-[Задача 2]()
+[Задача 2](https://github.com/YarRebrov/HomeWork/blob/master/Dz(2)_number_2.py)
 
 Домашнее задание 3
 
