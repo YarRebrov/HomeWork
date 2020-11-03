@@ -9,6 +9,10 @@
 
 [Задача 2  - корни приведенного квадратного уравнения](https://github.com/YarRebrov/HomeWork/blob/master/number_two.py)
 
+Домашнее задание 2
+
+[Задача 2]()
+
 Домашнее задание 3
 
 [Задача 4 - МНК](https://github.com/YarRebrov/HomeWork/blob/master/Dz(3)_number_4.py)
